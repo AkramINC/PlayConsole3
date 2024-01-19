@@ -1,0 +1,16 @@
+{
+  "notif_active": true,
+  "gift_active": false,
+  "gift_val": 2,
+  "inter": "ca-app-pub-3940256099942544/1033173712",
+  "inter_active": true,
+  "inter_skip": "ca-app-pub-3940256099942544/1033173712",
+  "inter_skip_active": true,
+  "inter_bonus": "ca-app-pub-3940256099942544/1033173712",
+  "inter_bonus_active": true,
+  "inter_turns": 3,
+  "rewarded": "ca-app-pub-3940256099942544/5354046379",
+  "rewarded_active": true,
+  "banner_home": "ca-app-pub-3940256099942544/6300978111",
+  "banner_home_active": true
+}
