@@ -1,6 +1,6 @@
 {
-  "notif_active": true,
-  "gift_active": true,
+  "notif_active": false,
+  "gift_active": false,
   "gift_val": 2,
   "inter": "ca-app-pub-3940256099942544/1033173712",
   "inter_active": true,
